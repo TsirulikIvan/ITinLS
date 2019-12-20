@@ -53,4 +53,5 @@ familiarize| ознакомлять |ознакомлять
 malfunctioning | неисправен | -
 per-thread |  поток | нитка 
 
-6. ![Word Cloud](/wordcloud.png)
+6.
+![Word Cloud](/wordcloud.png)
