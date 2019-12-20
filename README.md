@@ -1,6 +1,5 @@
 ### Task1:
-# Создание облака ключевых слов англоязычного текста по профессиональной
-тематике
+  # Создание облака ключевых слов англоязычного текста по профессиональной тематике
 ## Solution:
 1. [Aticle link]  (https://devblogs.nvidia.com/accelerated-ray-tracing-cuda/)
 2. Subtheme Preliminaries
