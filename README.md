@@ -55,16 +55,16 @@ thread |  поток | нитка
 6.
 ![Word Cloud](/wordcloud.png)
 
-#Task 2
+# Task 2
  ### Создание сценария изучения онлайн-курса по иностранному языку
-##Solution :
+## Solution :
 
-#Task 3
+# Task 3
  ### Создание интерактивного HTML-элемента для озвучивания произношения англоязычных слов
-##Solution : 
-https://kodaktor.ru/535561f
+## Solution : 
+https://kodaktor.ru/535561f_e3b71
 
-#Task 4
+# Task 4
  ### Разработка сценария использования мобильного приложения Sounds of Speech
-##Solution :
+## Solution :
 
