@@ -46,7 +46,8 @@
 *Генерация случайных чисел в потоке с помощью cuRAND.
 ```
 4 / 5.
-Word |Translator | Lingvolive
+
+Word    |Translator | Lingvolive
 --------|-----------|-------------
 familiarize| ознакомлять |ознакомлять
 malfunctioning | неисправен | -
