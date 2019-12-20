@@ -1,5 +1,5 @@
-### Task1:
-  # Создание облака ключевых слов англоязычного текста по профессиональной тематике
+# Task1:
+  ### Создание облака ключевых слов англоязычного текста по профессиональной тематике
 ## Solution:
 1. [Aticle link]  (https://devblogs.nvidia.com/accelerated-ray-tracing-cuda/)
 2. Subtheme Preliminaries
@@ -50,7 +50,21 @@ Word    |Translator | Lingvolive
 --------|-----------|-------------
 familiarize| ознакомлять |ознакомлять
 malfunctioning | неисправен | -
-per-thread |  поток | нитка 
+thread |  поток | нитка 
 
 6.
 ![Word Cloud](/wordcloud.png)
+
+#Task 2
+ ### Создание сценария изучения онлайн-курса по иностранному языку
+##Solution :
+
+#Task 3
+ ### Создание интерактивного HTML-элемента для озвучивания произношения англоязычных слов
+##Solution : 
+https://kodaktor.ru/535561f
+
+#Task 4
+ ### Разработка сценария использования мобильного приложения Sounds of Speech
+##Solution :
+
