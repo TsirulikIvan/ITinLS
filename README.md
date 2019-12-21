@@ -59,8 +59,10 @@ thread |  поток | нитка
  ### Создание сценария изучения онлайн-курса по иностранному языку
 ## Solution :
   1. Course link: https://stepik.org/course/53562/promo
-  2. ![Course scheme] (/scheme.png)
-  3. ![Done tasks] (/done_tasks.png)
+  2.
+  ![Course scheme] (/scheme.png)
+  3. 
+  ![Done tasks] (/done_tasks.png)
 
 
 # Task 3:
